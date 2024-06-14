@@ -59,3 +59,5 @@ Este é o script principal que contém toda a lógica da aplicação.
 2. Instale as bibliotecas necessárias:
    ```bash
    pip install customtkinter pillow
+
+<img src="https://github.com/Alvesflstk/Formulario-Controle/assets/111323514/e8dfc1d7-6d1b-4c37-98ce-5eed8988defa">
